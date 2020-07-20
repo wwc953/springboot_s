@@ -1,0 +1,5 @@
+# Listeners
+org.springframework.context.ApplicationListener=\
+com.example.mytest.listener.ApplicationPreparedEventListener,\
+com.example.mytest.listener.ApplicationReadyEventListener,\
+com.example.mytest.listener.ApplicationStartedEventListener
